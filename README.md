@@ -227,7 +227,7 @@
 
 ---
 
-## 7. 나의 역할
+## 7. 역할
 
 본 프로젝트에서 저는 전체 분석 흐름 대부분을 주도적으로 수행했습니다.
 
@@ -251,22 +251,7 @@
 
 ---
 
-## 8. 사용 기술
-
-| 구분               | 기술                                             |
-| ---------------- | ---------------------------------------------- |
-| Language         | Python, R                                      |
-| Data Processing  | pandas, numpy                                  |
-| Visualization    | matplotlib, seaborn                            |
-| Machine Learning | scikit-learn, Random Forest, XGBoost, LightGBM |
-| Time Series      | ARIMA, VAR, Prophet                            |
-| Deep Learning    | TensorFlow, Keras, LSTM                        |
-| Evaluation       | MAE, RMSE, MAPE, R²                            |
-| Documentation    | GitHub README, Poster, Report                  |
-
----
-
-## 9. 프로젝트 의의
+## 8. 프로젝트 의의
 
 본 프로젝트는 단순히 머신러닝 모델을 적용하는 데서 끝나지 않고, 예측 결과를 실제 정책 판단 문제와 연결했다는 점에서 의미가 있습니다.
 
@@ -276,7 +261,7 @@
 
 ---
 
-## 10. 한계점 및 개선 방향
+## 9. 한계점 및 개선 방향
 
 본 프로젝트는 제한된 데이터와 학부 프로젝트 수준의 분석 환경에서 진행되었기 때문에 몇 가지 한계가 있습니다.
 
