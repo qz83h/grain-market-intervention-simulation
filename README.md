@@ -2,7 +2,7 @@
 
 <img width="7015" height="9933" alt="포스터_완성본" src="https://github.com/user-attachments/assets/9c39d228-6699-44a6-bbba-6fa49996bfb0" />
 
-## 데이터 플로우
+## flow
 
 <img width="654" height="803" alt="모델 1" src="https://github.com/user-attachments/assets/2ea2dd4f-d037-409b-9525-23ed5122f46c" />
 
