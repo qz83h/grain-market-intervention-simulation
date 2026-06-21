@@ -2,6 +2,11 @@
 
 <img width="7015" height="9933" alt="포스터_완성본" src="https://github.com/user-attachments/assets/9c39d228-6699-44a6-bbba-6fa49996bfb0" />
 
+## 데이터 플로우
+
+<img width="654" height="803" alt="모델 1" src="https://github.com/user-attachments/assets/2ea2dd4f-d037-409b-9525-23ed5122f46c" />
+Design by qz83h
+
 ## 프로젝트 개요
 
 본 프로젝트는 양곡의 과잉 공급 상황에서 시장격리 정책의 필요 여부를 판단하고, 적정 매입 시점과 격리량을 시뮬레이션하기 위해 진행한 데이터 분석 프로젝트입니다.
